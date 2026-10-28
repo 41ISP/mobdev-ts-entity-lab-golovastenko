@@ -1,4 +1,4 @@
-export function EntityForm() {
+export function HLTVForm() {
     return (
         <form className="form">
             <h2>Добавить сущность</h2>
